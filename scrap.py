@@ -135,9 +135,6 @@ class Main:
         self.driver.quit()
 
 
-             
-
-
 if __name__=="__main__":
     # membuat database dan tabel di MySQL, setelah berhasil maka baris di bawah ini harus disable
     # makeDB()
